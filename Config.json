@@ -1,5 +1,7 @@
 {
+    "Warrior": true,
     "Physical_Damage_Multiplier": 1,
-    "Elemental_Magic": true,
+
+    "Caster": true,
     "Elemental_Damage_Multiplier": 2
 }
