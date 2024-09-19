@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(86, 95, 104);
+}
+
+.banner {
+    display: flex;
+    gap: 10px;
+
+    margin: 0px;
+    padding: 20px 20px;
+    width: 100%;
+    background-color: slategray;
+
+    border-width: 0px 0px 8px 0px;
+    border-style: outset;
+    border-color: black;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    text-decoration: underline;
+}
+
+.text-block {
+    padding: 20px;
+    margin: 10px;
+    background-color: slategray;
+
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
